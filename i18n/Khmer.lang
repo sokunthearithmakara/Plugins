@@ -11,7 +11,7 @@
     "sInfoEmpty":      "បង្ហាញជួរទី 0 ដល់ទី 0 ក្នុងចំណោម 0 ជួរ",
     "sInfoFiltered":   "(បានចម្រាញ់ចេញពីទិន្នន័យសរុប _MAX_ ជួរ)",
     "sInfoPostFix":    "",
-    "sInfoThousands":  ",",
+    "sInfoThousands":  ".",
     "sLengthMenu":     "បង្ហាញ _MENU_ ជួរ",
     "sLoadingRecords": "កំពុងផ្ទុក...",
     "sProcessing":     "កំពុងដំណើរការ...",
